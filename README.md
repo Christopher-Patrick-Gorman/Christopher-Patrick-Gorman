@@ -2,7 +2,10 @@
 #### Data Analyst
 I am a Data Analyst with Background in Healthcare.  I attended Nashville Software School where I received my Data Analyst Certificate.  The transition from healthcare to data analysts was a bit scary at first.  However,  I have found a great passion in this new field and I am very excited to continue broadening my horizons!
 
-- 🔭 I’m currently working on My Capstone Project 
+- 🔭 I’m currently working on My Capstone Project
+  -  My Capstone focuses on automating the private dining data collection and visualization of a small growing restaurant group.  This is a bit of a passion project of mine and I will continue to work and implement new ideas weekly.
+
+-You can get more information here: [Capstone](https://github.com/Christopher-Patrick-Gorman/cgorman_capstone)
 
 
 <h3 align="left">Languages and Tools:</h3>
