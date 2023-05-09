@@ -1,12 +1,12 @@
-### Hi there 👋, Chris Gorman
+### Hello! I'm Chris Gorman
 #### Data Analyst
-Data Analyst with Background in Healthcare.  I attended Nashville Software School where I received my Data Analyst Certificate.  The transition from healthcare to data analysts was a bit scary at first.  However,  I have found a great passion in this new field and I am very excited to continue broadening my horizons!
+I am a Data Analyst with Background in Healthcare.  I attended Nashville Software School where I received my Data Analyst Certificate.  The transition from healthcare to data analysts was a bit scary at first.  However,  I have found a great passion in this new field and I am very excited to continue broadening my horizons!
 
-Skills: Data Analyst | Python | SQL | Ubuntu | Tableau | Power BI | Excel
-
-- 🔭 I’m currently continuing to work on My Capstone Project 
+- 🔭 I’m currently working on My Capstone Project 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://www.python.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg' alt='postgresql' height='40'>](https://www.postgresql.org/)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
 
 
