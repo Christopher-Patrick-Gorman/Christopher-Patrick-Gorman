@@ -5,7 +5,8 @@ I am a Data Analyst with Background in Healthcare.  I attended Nashville Softwar
 - 🔭 I’m currently working on My Capstone Project
   -  My Capstone focuses on automating the private dining data collection and visualization of a small growing restaurant group.  This is a bit of a passion project of mine and I will continue to work and implement new ideas weekly.
 
-- You can get more information on this project here: [My Capstone Project](https://github.com/Christopher-Patrick-Gorman/cgorman_capstone)
+- More information on this project can be found here: [My Capstone Project](https://github.com/Christopher-Patrick-Gorman/cgorman_capstone)
+- To view any of the visualizations and dashboards created for the projects found on this page, click here: [Portfolio Website](https://sites.google.com/view/chris-gorman?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
